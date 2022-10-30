@@ -1,4 +1,4 @@
-name: CI
+name: peyman
  
 on: [push, workflow_dispatch]
  
